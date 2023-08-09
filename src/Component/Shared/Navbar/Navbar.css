@@ -1,0 +1,28 @@
+.bg-gray {
+    background-color: rgba(16, 146, 246, 0.746);
+    font-size: 17px;
+    color: rgba(0, 0, 0, 0.803);
+    font-weight: 500;
+}
+
+.navbar-nav {
+    margin-left: auto;
+
+}
+
+
+form {
+    margin-left: 20%;
+}
+
+.text-whit {
+    color: rgba(255, 255, 255, 0.918);
+}
+
+button {
+    border: 0;
+    color: rgb(71, 70, 70);
+    background-color: rgba(253, 253, 255, 0.646);
+    padding: 7px;
+    font-weight: 500;
+}
